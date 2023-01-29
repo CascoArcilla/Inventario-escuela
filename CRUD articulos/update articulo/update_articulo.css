@@ -1,0 +1,35 @@
+body{
+    background-image: url(https://blog.beep.es/wp-content/uploads/2022/01/actualizaciones01-1024x676.jpg);
+    background-size: 100%;
+}
+hr{
+    height: 20px;
+}
+p{
+    background-color: rgba(255, 255, 0, 0.766);
+}
+a{
+    text-decoration: none;
+    color: rgb(237, 141, 106);
+}
+#tabla{
+    background-color: rgba(81, 77, 212, 0.83);
+    color: white;
+    border: 3px solid black;
+    margin: auto;
+}
+th{
+    background-color: rgb(226, 43, 202);
+    padding: 3px 8px;
+}
+tr{
+    font-size: 20px;
+    padding: 4px 10px;
+}
+td{
+    padding: 4px 10px;
+}
+h1{
+    text-align: center;
+    background-color: rgba(197, 68, 68, 0.785);
+}

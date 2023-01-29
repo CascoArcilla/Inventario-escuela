@@ -1,0 +1,36 @@
+body{
+    background-image: url(https://nordvpn.com/wp-content/uploads/social-keyboard-delete-button.jpg);
+    background-size: 100%;
+}
+#contenido{
+    border: 3px solid rgb(169, 236, 255);
+    border-radius: 8px;
+    background-color: rgba(192, 252, 255, 0.678);
+    padding: 5px 8px;
+    padding-bottom: 15px;
+    width: 450px;
+    max-width: 800px;
+    margin: auto;
+    margin-top: 25vh;
+    justify-content: center;
+}
+#formulario{
+    width: 200px;
+    max-width: 450px;
+    margin: auto;
+}
+#boton-enviar{
+    margin: auto;
+}
+label{
+    font-size: 20px;
+    text-align: left;
+}
+h1{
+    text-align: center;
+    background-color: rgba(255, 101, 101, 0.758);
+}
+.barras{
+    background-color: rgba(161, 241, 245, 0.56);
+    width: 220px;
+}

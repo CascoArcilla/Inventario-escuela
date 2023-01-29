@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    font-size: 80px;
+    margin-top: -40px;
+    background-color: rgba(167, 44, 179, 0.647);
+    width: 800px;
+}
+#login-from{
+    margin: auto;
+    max-width: 360px;
+    justify-content: center;
+}
+label{
+    font-size: 20px;
+    text-align: left;
+}
+#login{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    padding: 40px;
+    background-color: rgba(205, 97, 215, 0.647);
+    max-width: 800px;
+    justify-content: center;
+}
+body{
+    background-image: url(https://www.xtrafondos.com/wallpapers/resoluciones/21/noche-colorida-en-las-montanas-arte-digital_3840x2160_8485.jpg);
+    background-size: 100%;
+}
+#boton-ingresar{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    max-width: 150px;
+    padding: 10px;
+    text-align: center;
+}
+.barras{
+    background-color: rgb(158, 158, 215);
+    padding: 4px 3px;
+}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="login.css">
+    <script src="login.js"></script>
+</head>
+<body>
+    <div id="main" class="box">
+        <h1>Login</h1>
+        <!--El tipo de usuario que hara login-->
+        <div id="tipos" class="box">
+            <label for="tipo">
+                Su tipo de usuario:
+                <select name="tipo" id="tipo" required>
+                    <option value="na" selected disabled>Seleccione</option>
+                    <option value="super">Super</option>
+                    <option value="normal">Normal</option>
+                </select>
+            </label>
+            <button id="boton-login" onclick="definirLogin()"> Login</button>
+        </div>
+        <!--Login del usuario-->
+        <div id="login-user">
+            <div id="form-user" class="box">
+                <form action="">
+                    <label for="user-">Usuario: <br><input id="user-" type="text" name="user-" placeholder="Ingrese su usuario" required></label><br>
+                    <br>
+                    <button>Ingresar</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

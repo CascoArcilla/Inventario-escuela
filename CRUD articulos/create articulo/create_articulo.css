@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://fondosmil.com/fondo/17308.jpg);
+}
+
+h1, h2{
+    text-align: center;
+}
+
+#contenido{
+    padding: 50px 30px;
+    background-color: rgba(206, 157, 255, 0.718);
+    margin: auto;
+}
+
+#formulario{
+    padding: 15px 30px;
+    max-width: 350px;
+    background-color: rgba(155, 155, 200, .7);
+    margin: auto;
+    border-radius: 20px;
+}

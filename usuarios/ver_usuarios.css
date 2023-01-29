@@ -1,0 +1,29 @@
+hr{
+    height: 20px;
+}
+a{
+    background-color: black;
+    
+}
+#tabla{
+    background-color: aqua;
+    border: 3px solid black;
+    margin: auto;
+}
+tr{
+    background-color: rgb(0, 170, 255);
+    font-size: 20px;
+    text-align: center;
+    padding: 4px 6px;
+}
+td{
+    background-color: rgb(62, 249, 72);
+    padding: 4px 6px;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+body{
+    background-color: rgb(60, 39, 80);
+}
